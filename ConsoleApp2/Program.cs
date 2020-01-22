@@ -8,7 +8,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("The Witcher is Awesome!!!");
-            
+            Console.ReadLine();
         }
     }
 }
